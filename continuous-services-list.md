@@ -1,5 +1,5 @@
 | Name | Description | Functionality |
-|------|:-------------:|
+|------|:-------------:|:-----------:|
 |[Circle CI](https://circleci.com/) | | |
 |[Buildbox](https://buildbox.io/) | | |
 |[SemaphoreApp](https://semaphoreapp.com/) | | |
