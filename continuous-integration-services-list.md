@@ -12,9 +12,9 @@
 |[Drone](https://drone.io/) | | | [Documentation](http://docs.drone.io/) | | [Public projects for free](https://drone.io/pricing) |
 |[Factor](https://factor.io/) | | | | |
 |[GitLab CI](https://ci.gitlab.org) | | | | |
-|[SemaphoreApp](https://semaphoreapp.com/) | | | | |
-|[Shippable](https://www.shippable.com/) | | | | |
+|[SemaphoreApp](https://semaphoreapp.com/) | | | [Documentation](https://semaphoreapp.com/docs/) | [Free with limitations](https://semaphoreapp.com/pricing) |
+|[Shippable](https://www.shippable.com/) | | | [Documentation](http://docs.shippable.com/en/latest/) | | [Free with limitations](https://www.shippable.com/pricing.html) |
 |[Testling](https://ci.testling.com) | Run browser tests | | [Documentation](https://ci.testling.com/guide/quick_start) | [Free for opensource projects and 3 min sessions](https://browserling.com/) |
 |[Thoughtbot](http://thoughtbot.com) | | | | |
 |[Travis CI](https://travis-ci.org/) | | Deployment, compilation | [Doc](http://docs.travis-ci.com/user/getting-started/) | |
-|[Wercker](https://app.wercker.com) | | | |
+|[Wercker](https://app.wercker.com) | | | [Documentation](http://devcenter.wercker.com/articles/gettingstarted/) | | |
