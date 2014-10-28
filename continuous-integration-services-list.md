@@ -6,7 +6,7 @@
 |[Codeship](https://www.codeship.io/) | | | [Documentation](https://www.codeship.io/documentation) [Free ebook](http://ebooks.codeship.io/efficiency-in-development-workflows-by-codeship/) | [Free for opensource projects or 100 builds per month](https://www.codeship.io/pricing) |
 |[Code Climate](https://www.codeclimate.com/) | Hosted platform to continuously measure and monitor code quality | | [Documentation](http://docs.codeclimate.com/) | [14-day Trial](https://codeclimate.com/pricing) |
 |[Coveralls](https://coveralls.io) | Coveralls works with your continuous integration server to give you test coverage history and statistics. | | [Documentation](https://coveralls.zendesk.com/hc/en-us) | [Free for opensource projects](https://coveralls.io/pricing) |
-|[Coverity](http://www.coverity.com) | Code analysis, test analysis | None | [Free for opensource projects](http://softwareintegrity.coverity.com/free-trial-coverity.html) |
+|[Coverity](http://www.coverity.com) | Code analysis, test analysis | | None | [Free for opensource projects](http://softwareintegrity.coverity.com/free-trial-coverity.html) |
 |[Coviolations](https://coviolations.io) | | | | |
 |[Circle CI](https://circleci.com/) | | | [Documentation](https://circleci.com/docs) | [Pricing](https://circleci.com/pricing) |
 |[Drone](https://drone.io/) | | | [Documentation](http://docs.drone.io/) | [Public projects for free](https://drone.io/pricing) |
