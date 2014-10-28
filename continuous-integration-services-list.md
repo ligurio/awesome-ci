@@ -1,6 +1,6 @@
 | Name | Description | Functionality | Documentation | Price |
 |------|:-------------:|:-----------:|:-------------:|:-----:|
-|[Appveyor](https://ci.appveyor.com) | | | | |
+|[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
 |[Buildbox](https://buildbox.io/) | A build automation platform which gives you complete control, without the pain of running your own CI system. | | [Documentation](https://buildbox.io/docs/guides/getting-started) | [14-day Trial](https://buildbox.io/pricing)|
 |[Buildhive](https://buildhive.cloudbees.com) | One of the many cloud based CI services. It is built on top of Jenkins. | | [Documentation](http://wiki.cloudbees.com/bin/view/DEV/BuildHive) | [Two weeks free](http://www.cloudbees.com/products/dev) |
 |[Codeship](https://www.codeship.io/) | One more cloud based CI service: running tests and deployment. | | [Documentation](https://www.codeship.io/documentation) [Free ebook](http://ebooks.codeship.io/efficiency-in-development-workflows-by-codeship/) | [Free for opensource projects or 100 builds per month](https://www.codeship.io/pricing) |
