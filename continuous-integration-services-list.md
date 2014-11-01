@@ -1,4 +1,4 @@
-| Name | Description | Functionality | Documentation | Price |
+| Name | Description | Features | Documentation | Price |
 |------|:-------------:|:-----------:|:-------------:|:-----:|
 |[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
 |[Buildbox](https://buildbox.io/) | A build automation platform which gives you complete control, without the pain of running your own CI system. | | [Documentation](https://buildbox.io/docs/guides/getting-started) | [14-day Trial](https://buildbox.io/pricing)|
