@@ -9,7 +9,7 @@
 |[Coverity](http://www.coverity.com) | Code analysis, test analysis | Languages: C/C++, Java, C# | None | [Free for opensource projects](http://softwareintegrity.coverity.com/free-trial-coverity.html) |
 |[Coviolations](https://coviolations.io) | Tool for collecting and visualisation code violations works with Travis-CI, drone.io and Jenkins | Source code is available: [Web application](https://github.com/nvbn/coviolations_web), [Application](https://github.com/nvbn/coviolations_app) | [Documentation](https://coviolationsio.readthedocs.org/en/latest/) | |
 |[Circle CI](https://circleci.com/) | Continuous Integration and Deployment | | [Documentation](https://circleci.com/docs) | [Pricing](https://circleci.com/pricing) |
-|[Drone](https://drone.io/) | Continuous Integration service | | [Documentation](http://docs.drone.io/) | [Public projects for free](https://drone.io/pricing) |
+|[Drone](https://drone.io/) | Continuous Integration service | [Source code](https://github.com/drone/drone) is available. | [Documentation](http://docs.drone.io/) | [Public projects for free](https://drone.io/pricing) |
 |[Factor](https://factor.io/) | Service to automate developer workflows by defining them programmatically using the Factor.io syntax and running them using the Factor.io Server. | | [Documentation](http://docs.factor.io/) | |
 |[GitLab CI](https://ci.gitlab.org) | | | | [Pricing](https://about.gitlab.com/subscription/) |
 |[Githost](https://githost.io/) | | | [Documentation](https://githost.io/docs) | [Pricing](https://githost.io/plans) |
