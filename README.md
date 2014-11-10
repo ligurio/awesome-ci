@@ -11,6 +11,8 @@ of them and choose more suitable for you.
 Some of CI services has open source code thus you can setup them in standalone mode.
 Pay attention in column "Features".
 
+[Similar comparison](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software) is on Wikipedia.
+
 ### How To Contribute
 - [Fork](https://github.com/ligurio/Continuous-Integration-services/fork)
 - [Edit](https://github.com/ligurio/Continuous-Integration-services/edit/master/continuous-integration-services-list.md) (we prefer multiple small commits rather than one large change)
