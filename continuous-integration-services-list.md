@@ -15,6 +15,7 @@
 |[Githost](https://githost.io/) | | | [Documentation](https://githost.io/docs) | [Pricing](https://githost.io/plans) |
 |[PHP CI](https://www.phptesting.org/) | Free and open source continuous integration tool specifically designed for PHP | Language: PHP, [Source code](https://github.com/Block8/PHPCI) is available | | [Pricing](https://www.phptesting.org/hosted-phpci) |
 |[Saucelabs](https://saucelabs.com/) | Automated testing in the cloud for CI | | [Documentation](https://docs.saucelabs.com/) | [14-day Trial](https://saucelabs.com/pricing) |
+|[Scrutinizer](https://scrutinizer-ci.com/) | Build quality software, better | | [Documentation](https://scrutinizer-ci.com/docs/) | [14-day Trial](https://scrutinizer-ci.com/pricing) |
 |[SemaphoreApp](https://semaphoreapp.com/) | Hosted continuous integration and delivery solution for open source and private projects. | | [Documentation](https://semaphoreapp.com/docs/) | [Free with limitations](https://semaphoreapp.com/pricing) |
 |[Shippable](https://www.shippable.com/) | Continuous Delivery | Languages: Ruby, Python, Java, Node.js, Scala, PHP, Go; Databases: MongoDB, MySQL, Redis, Postgres, CouchDB, RethinkDB, Neo4j, and SQLite | [Documentation](http://docs.shippable.com/en/latest/) | [Free with limitations](https://www.shippable.com/pricing.html) |
 |[Solano Labs](https://www.solanolabs.com/) | Hosted service that runs your test suite on a distributed infrastructure - fast | | [Documentation](http://docs.solanolabs.com/) | [14-day Trial](https://ci.solanolabs.com/signups/new) |
