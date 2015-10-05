@@ -14,6 +14,7 @@
 |[Factor](https://factor.io/) | Service to automate developer workflows by defining them programmatically using the Factor.io syntax and running them using the Factor.io Server. | | [Documentation](http://docs.factor.io/) | |
 |[GitLab CI](https://ci.gitlab.org) | | | | [Pricing](https://about.gitlab.com/subscription/) |
 |[Githost](https://githost.io/) | | | [Documentation](https://githost.io/docs) | [Pricing](https://githost.io/plans) |
+|[Magnum CI](http://magnum-ci.com/) | Hosted Continuous Integration and Delivery Platform | | [Documentation](https://magnum-ci.com/docs) | [Free beta](https://magnum-ci.com/pricing) |
 |[PHP CI](https://www.phptesting.org/) | Free and open source continuous integration tool specifically designed for PHP | Language: PHP, [Source code](https://github.com/Block8/PHPCI) is available | | [Pricing](https://www.phptesting.org/hosted-phpci) |
 |[Saucelabs](https://saucelabs.com/) | Automated testing in the cloud for CI | | [Documentation](https://docs.saucelabs.com/) | [14-day Trial](https://saucelabs.com/pricing) |
 |[Scrutinizer](https://scrutinizer-ci.com/) | Build quality software, better | [Sources](https://github.com/scrutinizer-ci) are available | [Documentation](https://scrutinizer-ci.com/docs/) | [14-day Trial](https://scrutinizer-ci.com/pricing) |
