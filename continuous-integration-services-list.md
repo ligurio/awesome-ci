@@ -1,5 +1,5 @@
 | Name | Description | Features | Supported repositories | Documentation | Price |
-|------|:-------------:|:-----------:|:-------------:|:-----:|
+|------|:-------------:|:-----------:|:-------------:|:-----:|:---------:|
 |[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | | GitHub, BitBucket | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
 |[Bitrise](http://bitrise.io/) | iOS Continuous Integration and Delivery. | | GitHub, BitBucket, Custom | [Documentation](http://devcenter.bitrise.io/) | [Free](https://www.bitrise.io/pricing)|
 |[Buildkite](https://buildkite.com/) | A build automation platform which gives you complete control, without the pain of running your own CI system. | | GitHub, Custom | [Documentation](https://buildkite.com/docs/guides/getting-started) | [14-day Trial](https://buildkite.com/pricing)|
