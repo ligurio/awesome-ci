@@ -1,6 +1,6 @@
 | Name | Description | Features | Supported repositories | Documentation | Price |
 |------|:-------------:|:-----------:|:-------------:|:-----:|:---------:|
-|[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | | GitHub, BitBucket | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
+|[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | Languages: C#, Xamarin, F#, VB.NET, C/C++, Node.js, Ruby, TypeScript, Go, Java, Python, Perl, Erlang  | GitHub, BitBucket | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
 |[Assertible](https://assertible.com/) | Automated post-deployment testing and web service monitoring | [Example Integrations](https://github.com/assertible/deployments) | GitHub | [Documentation](https://assertible.com/docs) | [Free with limitations](https://assertible.com/plans) |
 |[Badwolf](https://github.com/bosondata/badwolf) | Docker based continuous integration and code lint review system for BitBucket | [Source code](https://github.com/bosondata/badwolf) is available | BitBucket | [Documentation](https://badwolf.readthedocs.io/en/latest/) | Free (Open source) |
 |[Bitrise](http://bitrise.io/) | iOS Continuous Integration and Delivery. | | GitHub, BitBucket, Custom | [Documentation](http://devcenter.bitrise.io/) | [Free](https://www.bitrise.io/pricing)|
