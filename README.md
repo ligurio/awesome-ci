@@ -1,3 +1,19 @@
+## List of Continuous Integration services
+
+There are a lot of cloud [continuous
+integration](http://en.wikipedia.org/wiki/Continuous_integration) services.  All
+of them have different set of functionality, some of them require payment, some
+of them are free.  I have created [a list of such
+services](/continuous-integration-services-list.md) to make easy comparison of
+them and choose more suitable for you.
+
+Some of CI services has open source code thus you can setup them in standalone
+mode. Pay attention to the column "Features".
+
+There is a
+[similar](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)
+comparison on Wikipedia.
+
 | Name | Description | Features | Supported repositories | Documentation | Price |
 |------|:-------------:|:-----------:|:-------------:|:-----:|:---------:|
 |[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | Languages: C#, Xamarin, F#, VB.NET, C/C++, Node.js, Ruby, TypeScript, Go, Java, Python, Perl, Erlang  | GitHub, BitBucket | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
@@ -33,3 +49,11 @@
 |[Visual Studio Team Services](https://www.visualstudio.com/team-services/) | Cloud-based collaboration services for version control, agile planning, continuous delivery, and analytics application for Visual Studio, Eclipse, Xcode.  | | Visual Studio Team Services, GitHub, Custom |  [Documentation](https://www.visualstudio.com/en-us/docs/overview) | [Free](https://www.visualstudio.com/products/free-developer-offers-vs.aspx) with [monthly build limits](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/get-more-build-or-load-testing-vs) |
 |[Wercker](https://app.wercker.com) | Continuous delivery platform | | Docker Hub | [Documentation](http://devcenter.wercker.com/articles/gettingstarted/) | | |
 |[Abstruse CI](https://github.com/bleenco/abstruse) | Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker. | Languages: everything that can be installed on Linux | GitHub, GitLab, BitBucket, Gogs | [Documentation](https://github.com/bleenco/abstruse/tree/master/docs) | [Open Source](https://abstruse.bleenco.io)
+
+
+### License
+
+[![CC0 Public Domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
+waived all copyright and related or neighboring rights to this work.
