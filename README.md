@@ -16,6 +16,7 @@ comparison on Wikipedia.
 | Name | Description | Features | Supported repositories | Documentation | Price |
 |------|:-------------:|:-----------:|:-------------:|:-----:|:---------:|
 |[Abstruse CI](https://github.com/bleenco/abstruse) | Self-Hosted, Open-Source CI Platform. Based on NodeJS and Docker. | Languages: everything that can be installed on Linux | GitHub, GitLab, BitBucket, Gogs | [Documentation](https://github.com/bleenco/abstruse/tree/master/docs) | [Open Source](https://abstruse.bleenco.io)
+|[Appcenter](https://appcenter.ms/) | CI Platform. It connects with Hockeyapp where you can store installers and send their by email | Compatible with Android, iOS, Xamarin, Reactive Native, Cordova, MacOS | GitHub, BitBucket, VSTS | [Documentation](https://docs.microsoft.com/en-us/appcenter/) | [Free with limitations](https://appcenter.ms/#pricing) |
 |[Appveyor](https://ci.appveyor.com) | AppVeyor automates building, testing and deployment of .NET applications. | Languages: C#, Xamarin, F#, VB.NET, C/C++, Node.js, Ruby, TypeScript, Go, Java, Python, Perl, Erlang  | GitHub, BitBucket | [Documentation](http://www.appveyor.com/docs) | [Free with limitations](http://www.appveyor.com/pricing) |
 |[Assertible](https://assertible.com/) | Automated post-deployment testing and web service monitoring | [Example Integrations](https://github.com/assertible/deployments) | GitHub | [Documentation](https://assertible.com/docs) | [Free with limitations](https://assertible.com/plans) |
 |[Badwolf](https://github.com/bosondata/badwolf) | Docker based continuous integration and code lint review system for BitBucket | [Source code](https://github.com/bosondata/badwolf) is available | BitBucket | [Documentation](https://badwolf.readthedocs.io/en/latest/) | Free (Open source) |
@@ -49,6 +50,7 @@ comparison on Wikipedia.
 |[Travis CI](https://travis-ci.org/) | Hosted continuous integration service for open source and private projects. | Languages: C, C++, Clojure, Erlang, Go, Groovy, Haskell, Java, Javascript (with Node.js), Objective-C, Perl, PHP, Python, Ruby, Rust, Scala. [Source code](https://github.com/travis-ci/travis-ci) is available. | GitHub | [Documentation](http://docs.travis-ci.com/user/getting-started/) | [Free for opensource projects](https://travis-ci.com/plans) |
 |[Visual Studio Team Services](https://www.visualstudio.com/team-services/) | Cloud-based collaboration services for version control, agile planning, continuous delivery, and analytics application for Visual Studio, Eclipse, Xcode.  | | Visual Studio Team Services, GitHub, Custom |  [Documentation](https://www.visualstudio.com/en-us/docs/overview) | [Free](https://www.visualstudio.com/products/free-developer-offers-vs.aspx) with [monthly build limits](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/get-more-build-or-load-testing-vs) |
 |[Wercker](https://app.wercker.com) | Continuous delivery platform | | Docker Hub | [Documentation](http://devcenter.wercker.com/articles/gettingstarted/) | | |
+
 
 
 ### License
