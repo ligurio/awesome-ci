@@ -1,0 +1,17 @@
+language: ruby
+
+rvm:
+  - 2.2
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md --allow-redirect --allow-ssl
+
+notifications:
+  email:
+    recipients:
+      - estetus+travis-ci@gmail.com
+    on_success: change
+    on_failure: always
