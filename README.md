@@ -1,5 +1,10 @@
 ## List of Continuous Integration services
 
+[![Build Status](https://travis-ci.org/ligurio/awesome-ci.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ci)
+
+**[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons.**
+
+
 There are a lot of cloud [continuous
 integration](http://en.wikipedia.org/wiki/Continuous_integration) services. All
 of them have different set of functionality, some of them require payment, some
