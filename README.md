@@ -5,6 +5,9 @@
 **[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons.**
 
 
+[![sqaunderhood](https://i.imgur.com/HlL3cB2.jpg)](https://t.me/sqaunderhood)<h3>Telegram: <a href="https://t.me/sqaunderhood">t.me/sqaunderhood</a></h3>
+
+
 There are a lot of cloud [continuous
 integration](http://en.wikipedia.org/wiki/Continuous_integration) services. All
 of them have different set of functionality, some of them require payment, some
