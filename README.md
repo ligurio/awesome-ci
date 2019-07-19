@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-ci.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ci)
 
-**[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons.**
-
-
 [![sqaunderhood](https://i.imgur.com/HlL3cB2.jpg)](https://t.me/sqaunderhood)<h3>Telegram: <a href="https://t.me/sqaunderhood">t.me/sqaunderhood</a></h3>
 
 
