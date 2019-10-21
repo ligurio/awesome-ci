@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-ci.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ci)
 
-[![sqaunderhood](https://i.imgur.com/HlL3cB2.jpg)](https://t.me/sqaunderhood)<h3>Telegram: <a href="https://t.me/sqaunderhood">t.me/sqaunderhood</a></h3>
-
+**Join chat [t.me/sqaunderhood](https://t.me/sqaunderhood) and [subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
 
 There are a lot of cloud [continuous
 integration](http://en.wikipedia.org/wiki/Continuous_integration) services. All
