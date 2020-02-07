@@ -3,7 +3,18 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-ci.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ci)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Join chat [t.me/sqaunderhood](https://t.me/sqaunderhood) and [subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
+**[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
+
+### Community
+
+<img src="sqaunderhood-logo.svg" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
+
+- Telegram: https://t.me/sqaunderhood
+- Twitter: https://twitter.com/sqaunderhood
+- Facebook: https://www.facebook.com/sqaunderhood/
+- VK: https://vk.com/sqaunderhood
+
+### Introduction
 
 There are a lot of cloud [continuous
 integration](http://en.wikipedia.org/wiki/Continuous_integration) services. All
