@@ -1,6 +1,5 @@
 ## List of Continuous Integration services
 
-[![Build Status](https://travis-ci.org/ligurio/awesome-ci.svg?branch=master)](https://travis-ci.org/ligurio/awesome-ci)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
