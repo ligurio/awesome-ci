@@ -88,6 +88,7 @@ comparison on Wikipedia.
 |[Travis CI](https://travis-ci.org/) | Hosted continuous integration service for open source and private projects. | Languages: C, C++, Clojure, D, Erlang, Go, Groovy, Haskell, Java, Javascript (with Node.js), Objective-C, Perl, PHP, Python, Ruby, Rust, Scala. [Source code](https://github.com/travis-ci/travis-ci) is available. | GitHub | [Documentation](http://docs.travis-ci.com/user/getting-started/) | [Pricing](https://travis-ci.com/plans) | |
 |[Thundra Foresight](https://thundra.io/foresight) | A visibility tool into CI pipelines by spotting test failures in no time. | Languages: Java | GitHub, TeamCity, Bitbucket, Gitlab, Jenkins, CircleCI, TravisCI | [Documentation](https://foresight.docs.thundra.io/) | Free | |
 |[Wercker](https://app.wercker.com) | Continuous delivery platform | | Docker Hub | [Documentation](https://devcenter.wercker.com/) | | | |
+|[Woodpacker](https://woodpecker.laszlo.cloud/) | Continuous Integration service | Woodpecker is a community fork of the [Drone CI](https://github.com/drone) system. | GitHub, GitLab, Gitea, BitBucket, Custom | [Documentation](https://woodpecker-ci.github.io/docs/intro) | Free Open Source (Apache License 2.0) | [![Stars](https://img.shields.io/github/stars/laszlocph/woodpecker.svg)](https://github.com/laszlocph/woodpecker/) |
 |[Zuul](https://zuul-ci.org) | A Project Gating System | Self-Hosted, Open Source CI/CD Platform, Gating | GitHub, Gerrit, Pagure | [Documentation](https://zuul-ci.org/docs/zuul) | [Open Source](https://zuul-ci.org) | |
 
 
