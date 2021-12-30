@@ -18,8 +18,8 @@
 There are a lot of cloud [continuous
 integration](http://en.wikipedia.org/wiki/Continuous_integration) services. All
 of them have a different set of functionalities, some of them require payment, some
-of them are free.  I have created a list of such
-services to make easy comparison of them and choose a more suitable one for you.
+of them are for free.  I have created a list of such
+services to make an easy comparison of them and choose a more suitable one for you.
 
 Some of the CI services have open source code thus you can set them up in standalone
 mode. Pay attention to the column "Features".
