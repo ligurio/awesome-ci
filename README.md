@@ -4,15 +4,6 @@
 
 **[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
 
-### Community
-
-<img src="sqaunderhood-logo.svg" align="left" alt="sqaunderhood logo" width="100" style="padding: 10px;"/>
-
-- Telegram: https://t.me/sqaunderhood
-- Twitter: https://twitter.com/sqaunderhood
-- Facebook: https://www.facebook.com/sqaunderhood/
-- VK: https://vk.com/sqaunderhood
-
 ### Introduction
 
 There are a lot of cloud [continuous
