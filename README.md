@@ -91,6 +91,8 @@ comparison on Wikipedia.
 |[Wercker](https://app.wercker.com) | Continuous delivery platform | | Docker Hub | [Documentation](https://devcenter.wercker.com/) | | | |
 |[Woodpecker](https://woodpecker.laszlo.cloud/) | Continuous Integration service | Woodpecker is a community fork of the [Drone CI](https://github.com/drone) system. | GitHub, GitLab, Gitea, BitBucket, Custom | [Documentation](https://woodpecker-ci.github.io/docs/intro) | Free Open Source (Apache License 2.0) | [![Stars](https://img.shields.io/github/stars/laszlocph/woodpecker.svg)](https://github.com/laszlocph/woodpecker/) |
 |[Zuul](https://zuul-ci.org) | A Project Gating System | Self-Hosted, Open Source CI/CD Platform, Gating | GitHub, Gerrit, Pagure | [Documentation](https://zuul-ci.org/docs/zuul) | [Open Source](https://zuul-ci.org) | |
+|[CodeFlash.AI](https://codeflash.ai) | Ship Blazing-Fast Python Code — Every Time | • AI optimization of code<br>• Pull-request automation<br>• Correctness verification<br>• Full-project optimization via `codeflash --all`<br>• CLI, GitHub Action, and API integration | GitHub (via GitHub Action configuration), GitLab, Bitbucket (via CLI/API) | [Docs](https://docs.codeflash.ai) | Freemium |
+
 
 
 
