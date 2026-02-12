@@ -1,5 +1,7 @@
 ## List of Continuous Integration services
 
+- [API Status Check](https://apistatuscheck.com) - Monitor the status and uptime of 120+ popular developer APIs in real-time
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
