@@ -92,6 +92,7 @@ comparison on Wikipedia.
 |[Wercker](https://app.wercker.com) | Continuous delivery platform | | Docker Hub | [Documentation](https://devcenter.wercker.com/) | | | |
 |[Woodpecker](https://woodpecker.laszlo.cloud/) | Continuous Integration service | Woodpecker is a community fork of the [Drone CI](https://github.com/drone) system. | GitHub, GitLab, Gitea, BitBucket, Custom | [Documentation](https://woodpecker-ci.github.io/docs/intro) | Free Open Source (Apache License 2.0) | [![Stars](https://img.shields.io/github/stars/laszlocph/woodpecker.svg)](https://github.com/laszlocph/woodpecker/) |
 |[Zuul](https://zuul-ci.org) | A Project Gating System | Self-Hosted, Open Source CI/CD Platform, Gating | GitHub, Gerrit, Pagure | [Documentation](https://zuul-ci.org/docs/zuul) | [Open Source](https://zuul-ci.org) | |
+|[repo-intel](https://github.com/oxnr/repo-intel) | AI-powered competitive intelligence from GitHub repos. Monitor commits, releases, contributors, and strategic signals as a GitHub Action. | Languages: any (analyzes GitHub API data) | GitHub | [Documentation](https://github.com/oxnr/repo-intel#readme) | [Open Source](https://github.com/oxnr/repo-intel) | [![Stars](https://img.shields.io/github/stars/oxnr/repo-intel.svg)](https://github.com/oxnr/repo-intel) |
 
 
 
