@@ -4,6 +4,7 @@
 
 **[Subscribe](https://github.com/ligurio/awesome-ci/subscription) to receive notificatons with updates.**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CI/CD pipeline automation, multi-agent build orchestration, and automated quality validation. MIT licensed.
 ### Introduction
 
 There are a lot of cloud [continuous
