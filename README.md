@@ -101,3 +101,8 @@ comparison on Wikipedia.
 
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
+
+
+## Cloud / Hosted
+
+- [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - Audits GitHub Actions workflows for cost waste, security gaps, and reliability issues. 16 rules, SARIF + PR comment via companion Action. Sister CLIs cover GitLab CI, Bitbucket Pipelines, Azure Pipelines, CircleCI.
