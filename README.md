@@ -91,6 +91,7 @@ comparison on Wikipedia.
 |[Vela](https://go-vela.github.io/docs/) | Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang. | Docker based | GitHub | [Documentation](https://go-vela.github.io/docs/) | Open source, Apache 2.0 | |
 |[Wercker](https://app.wercker.com) | Continuous delivery platform | | Docker Hub | [Documentation](https://devcenter.wercker.com/) | | | |
 |[Woodpecker](https://woodpecker.laszlo.cloud/) | Continuous Integration service | Woodpecker is a community fork of the [Drone CI](https://github.com/drone) system. | GitHub, GitLab, Gitea, BitBucket, Custom | [Documentation](https://woodpecker-ci.github.io/docs/intro) | Free Open Source (Apache License 2.0) | [![Stars](https://img.shields.io/github/stars/laszlocph/woodpecker.svg)](https://github.com/laszlocph/woodpecker/) |
+|[Ocihub](https://ocihub.com) | Free anonymous Docker/OCI registry where the tag sets the image lifetime | ideal for passing images between CI jobs. | GitHub, GitLab, Gitea, BitBucket, Custom | [Documentation](https://ocihub.com) | Free | [Open Source](https://github.com/oci-hub/ocihub) |
 |[Zuul](https://zuul-ci.org) | A Project Gating System | Self-Hosted, Open Source CI/CD Platform, Gating | GitHub, Gerrit, Pagure | [Documentation](https://zuul-ci.org/docs/zuul) | [Open Source](https://zuul-ci.org) | |
 
 
