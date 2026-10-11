@@ -102,3 +102,4 @@ comparison on Wikipedia.
 
 To the extent possible under law, [Sergey Bronnikov](https://bronevichok.ru) has
 waived all copyright and related or neighboring rights to this work.
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Detects breaking API changes in PRs using TypeScript AST analysis. AI auto-fix via /fix command. Free, open-source.
